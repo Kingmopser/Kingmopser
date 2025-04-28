@@ -7,8 +7,8 @@
 
 - 💬 Ask me about **Statistics**
 
-- 📫 How to reach me **chabanbakir@gmail.com*
-- 
+- 📫 How to reach me **chabanbakir@gmail.com**
+
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kingmopser&show_icons=true&locale=en&layout=compact" alt="kingmopser" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kingmopser&show_icons=true&locale=en" alt="kingmopser" /></p>
