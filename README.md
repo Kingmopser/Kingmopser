@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Statistics**
 
-- 📫 How to reach me **chabanbakir@gmail.com**
+- 📫 How to reach me **B.Chaban@campus.lmu.de**
 
   
 <h3 align="left">Languages and Tools:</h3>
