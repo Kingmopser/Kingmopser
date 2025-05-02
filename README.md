@@ -1,5 +1,5 @@
 <h1> Hi, I'm Bakir Chaban</h1>
-<h3> A passionate Data Scientist exploring new Tech</h3>
+<h3> current undergrad and passionate Data Scientist exploring new Tech</h3>
 
 - 🌱 I’m currently learning **Pytorch, and Deep Learning**
 
