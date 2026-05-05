@@ -3,7 +3,7 @@
 B.Sc. Statistics & Data Science (Minor: Computer Science) at LMU Munich.
 GenAI Working Student at BMW Group, prev. intern.  Currently finishing my bachelor's thesis on Bayesian Deep Ensembles and uncertainty quantification.
 
-Interested in deep learning, generative AI, and probabilistic methods.
+Interested in deep learning, Machine Learning and generative AI, .
 
 ---
 
