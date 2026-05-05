@@ -9,10 +9,9 @@ Interested in deep learning, generative AI, and probabilistic methods.
 
 **Currently working on**
 - Bachelor's thesis: benchmarking MILE-based Bayesian Deep Ensembles for predictive accuracy and uncertainty quantification
-- End-to-end experiment pipeline with JAX, MLflow, and OpenML
 
 **Selected projects**
-- [Uncertainty Estimation in OOD Settings](https://github.com/Kingmopser) — Bayesian Last-Layer networks vs. deterministic NNs using Variational Inf.
+- [Uncertainty Estimation in OOD Settings](https://github.com/Kingmopser/ProbabilisticML) — Bayesian Last-Layer networks vs. deterministic NNs using Variational Inf.
 - Medical Research Analysis — linear regression on anonymised patient data for blood-flow trends in systemic sclerosis
 - Cannabis Usage Survey (with IfT) — GLMs and splines in R to identify drivers of usage changes
 
