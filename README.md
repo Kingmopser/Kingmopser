@@ -1,7 +1,7 @@
 # Bakir Chaban
 
 B.Sc. Statistics & Data Science (Minor: Computer Science) at LMU Munich.
-Data Science Intern at BMW Group — currently finishing my bachelor's thesis on Bayesian Deep Ensembles and uncertainty quantification.
+GenAI Working Student at BMW Group, prev. intern.  Currently finishing my bachelor's thesis on Bayesian Deep Ensembles and uncertainty quantification.
 
 Interested in deep learning, generative AI, and probabilistic methods.
 
