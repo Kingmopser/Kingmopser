@@ -13,7 +13,7 @@ Interested in deep learning, Machine Learning and generative AI, .
 **Selected projects**
 - [Bayesian Deep Ensemble Benchmarking Environment](https://github.com/Kingmopser/BachelorsThesisCode) - Fully automated Benchmark on [TabArena](https://arxiv.org/abs/2506.16791) datasets
 - [Uncertainty Estimation in OOD Settings](https://github.com/Kingmopser/ProbabilisticML) — Bayesian Last-Layer networks vs. deterministic NNs using Variational Inf.
-- Medical Research Analysis — linear regression on anonymised patient data for blood-flow trends in systemic sclerosis
+- [Medical Research Analysis](https://github.com/Kingmopser/MedicalAnalysis) — linear regression on anonymised patient data for blood-flow trends in systemic sclerosis
 - Cannabis Usage Survey (with IfT) — GLMs and splines in R to identify drivers of usage changes
 
 
