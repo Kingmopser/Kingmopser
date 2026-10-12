@@ -8,7 +8,7 @@ Interested in deep learning, Machine Learning and generative AI, .
 ---
 
 **Currently working on**
-- tbc
+- [CoffeeSommelier](https://github.com/Kingmopser/CoffeeSomelier) - CLI Tool based on a personal RAG. Coffee portfolio and personalized recommendation
 
 **Selected projects**
 - [Bayesian Deep Ensemble Benchmarking Environment](https://github.com/Kingmopser/BachelorsThesisCode) - Fully automated Benchmark on [TabArena](https://arxiv.org/abs/2506.16791) datasets
